@@ -1,0 +1,1 @@
+/home/cakchyn/Documents/VBI-Rust-Workshop-3-develop/exercise-ownership-borrowing/target/debug/exercise-ownership-borrowing: /home/cakchyn/Documents/VBI-Rust-Workshop-3-develop/exercise-ownership-borrowing/src/main.rs
